@@ -19,6 +19,7 @@ dependencies = [
     "psutil>=7.0.0",
     "pydantic>=2.10.6",
     "scipy>=1.15.2",
+    "sentence-transformers>=3.4.1",
     "sentencepiece>=0.2.0",
     "tqdm>=4.66.5",
     "transformers>=4.49.0",
