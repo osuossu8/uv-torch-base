@@ -1,6 +1,6 @@
 # uv-torch-base
 
-# lint & format
+## lint & format
 
 ```
 make lint
